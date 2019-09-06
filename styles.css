@@ -1,0 +1,39 @@
+/* Color Palette
+#2B2D42 - dark blue
+#8D99AE - LIGHT BLUE
+#EDF2F4 - BLUE/WHITE
+#EF233C - RED
+*/
+
+/*Global Styles*/
+body {
+	
+}
+
+
+
+/*Header and Footer*/
+
+header, footer {
+	background: #2B2D42;
+}
+
+
+
+/*Work Experience*/
+
+.work {
+	background: #EDF2F4;
+}
+
+
+
+
+
+
+
+/*Education*/
+
+.education {
+	background: #8D99AE; 
+}
